@@ -1,0 +1,8 @@
+D:\code academy\c#\Taxi_Form_App\Taxi_Form_App\bin\Release\Taxi_Form_App.exe.config
+D:\code academy\c#\Taxi_Form_App\Taxi_Form_App\bin\Release\Taxi_Form_App.exe
+D:\code academy\c#\Taxi_Form_App\Taxi_Form_App\bin\Release\Taxi_Form_App.pdb
+D:\code academy\c#\Taxi_Form_App\Taxi_Form_App\obj\Release\Taxi_Form_App.Form1.resources
+D:\code academy\c#\Taxi_Form_App\Taxi_Form_App\obj\Release\Taxi_Form_App.Properties.Resources.resources
+D:\code academy\c#\Taxi_Form_App\Taxi_Form_App\obj\Release\Taxi_Form_App.csproj.GenerateResource.Cache
+D:\code academy\c#\Taxi_Form_App\Taxi_Form_App\obj\Release\Taxi_Form_App.exe
+D:\code academy\c#\Taxi_Form_App\Taxi_Form_App\obj\Release\Taxi_Form_App.pdb

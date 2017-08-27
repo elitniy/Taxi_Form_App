@@ -1,0 +1,9 @@
+c:\users\elitniy\documents\visual studio 2017\Projects\Taxi_Form_App\Taxi_Form_App\bin\Debug\Taxi_Form_App.exe.config
+c:\users\elitniy\documents\visual studio 2017\Projects\Taxi_Form_App\Taxi_Form_App\bin\Debug\Taxi_Form_App.exe
+c:\users\elitniy\documents\visual studio 2017\Projects\Taxi_Form_App\Taxi_Form_App\bin\Debug\Taxi_Form_App.pdb
+c:\users\elitniy\documents\visual studio 2017\Projects\Taxi_Form_App\Taxi_Form_App\obj\Debug\Taxi_Form_App.csprojResolveAssemblyReference.cache
+c:\users\elitniy\documents\visual studio 2017\Projects\Taxi_Form_App\Taxi_Form_App\obj\Debug\Taxi_Form_App.Form1.resources
+c:\users\elitniy\documents\visual studio 2017\Projects\Taxi_Form_App\Taxi_Form_App\obj\Debug\Taxi_Form_App.Properties.Resources.resources
+c:\users\elitniy\documents\visual studio 2017\Projects\Taxi_Form_App\Taxi_Form_App\obj\Debug\Taxi_Form_App.csproj.GenerateResource.Cache
+c:\users\elitniy\documents\visual studio 2017\Projects\Taxi_Form_App\Taxi_Form_App\obj\Debug\Taxi_Form_App.exe
+c:\users\elitniy\documents\visual studio 2017\Projects\Taxi_Form_App\Taxi_Form_App\obj\Debug\Taxi_Form_App.pdb
